@@ -11,16 +11,16 @@ Mesmo tendo ciência de que os exercícios físicos são de extrema importância
 No nosso projeto, pretendemos utilizar as seguintes ferramentas: 
 Como linguagem de programação C++ pela Plataforma tinkercad; 
 
-####Componentes: 
-+ Led; 
-+ Buzzer; 
-+ LCD; 
-+ Placa(s) Arduíno; 
-+ Fios; 
-+ Potênciometro; 
-+ Bateria; 
-+ Sensor ultrassônico; 
+#### Componentes: 
+> Led; 
+> Buzzer; 
+> LCD; 
+> Placa(s) Arduíno; 
+> Fios; 
+> Potênciometro; 
+> Bateria; 
+> Sensor ultrassônico; 
 
-#####Dificuldades:
+##### Dificuldades:
 Obstáculos seriam adquirir e organizar os componentes do hardware do projeto, por conta do orçamento dos materiais. 
 Além da comunicação entre tais componentes, o uso do LCD, por exemplo, exige uma programação mais extensa, o que pode gerar erros no processo.
