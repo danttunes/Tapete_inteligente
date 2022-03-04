@@ -1,4 +1,4 @@
-![Logotipo](./img/shinjimorrendoeunaoquerodesaparecer.png)
+![Logotipo](./img/shinji.png)
 # Tapete Inteligente
 
 ## Um projeto de um tapete equipado com sensores que otimizariam a prática de atividades físicas.
