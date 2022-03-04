@@ -13,7 +13,7 @@ Como linguagem de programação C++ pela Plataforma tinkercad;
 
 #### Componentes: 
 ```
-Led; 
+😁Led; 
 Buzzer; 
 LCD; 
 Placa(s) Arduíno; 
