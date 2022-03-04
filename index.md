@@ -1,4 +1,4 @@
-![Logotipo](./img/shinji.png)
+![Logotipo](./img/2.png)
 
 # Um projeto de um tapete equipado com sensores que otimizariam a prática de atividades físicas.
 
