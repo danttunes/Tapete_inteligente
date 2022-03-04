@@ -27,3 +27,5 @@ Como linguagem de programação C++ pela Plataforma tinkercad;
 ### Dificuldades:
 Obstáculos seriam adquirir e organizar os componentes do hardware do projeto, por conta do orçamento dos materiais. 
 Além da comunicação entre tais componentes, o uso do LCD, por exemplo, exige uma programação mais extensa, o que pode gerar erros no processo.
+
+### [Diário de Bordo](https://github.com/danttunes/Tapete_inteligente/blob/main/diario_de_bordo.md)
