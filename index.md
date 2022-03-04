@@ -12,15 +12,15 @@ No nosso projeto, pretendemos utilizar as seguintes ferramentas:
 Como linguagem de programação C++ pela Plataforma tinkercad; 
 
 #### Componentes: 
-```
-😁Led; 
-Buzzer; 
-LCD; 
-Placa(s) Arduíno; 
-Fios; 
-Potênciometro; 
-Bateria; 
-Sensor ultrassônico; 
+````
+:trophy: Led; 
+:trophy: Buzzer; 
+:trophy: LCD; 
+:trophy: Placa(s) Arduíno; 
+:trophy: Fios; 
+:trophy: Potênciometro; 
+:trophy: Bateria; 
+:trophy: Sensor ultrassônico; 
 ```
 
 ##### Dificuldades:
