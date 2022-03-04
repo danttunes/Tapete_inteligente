@@ -12,14 +12,16 @@ No nosso projeto, pretendemos utilizar as seguintes ferramentas:
 Como linguagem de programação C++ pela Plataforma tinkercad; 
 
 #### Componentes: 
-> Led; 
-> Buzzer; 
-> LCD; 
-> Placa(s) Arduíno; 
-> Fios; 
-> Potênciometro; 
-> Bateria; 
-> Sensor ultrassônico; 
+```
+Led; 
+Buzzer; 
+LCD; 
+Placa(s) Arduíno; 
+Fios; 
+Potênciometro; 
+Bateria; 
+Sensor ultrassônico; 
+```
 
 ##### Dificuldades:
 Obstáculos seriam adquirir e organizar os componentes do hardware do projeto, por conta do orçamento dos materiais. 
