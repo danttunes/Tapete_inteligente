@@ -1,6 +1,6 @@
-#FIVEPOU
 ![Logotipo](./img/shinji.png)
 
+##FIVEPOU
 
 ## Um projeto de um tapete equipado com sensores que otimizariam a prática de atividades físicas.
 
