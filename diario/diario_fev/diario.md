@@ -8,6 +8,7 @@ Desenvolvimento do tema. Mapeamento das possibilidades e dos temas que possuem a
 
 ### Semana 2 (10/02/2022 – 17/02/2022)
 Conclusão do tema. Um tapete integrado a um sistema de Arduino com sensores para ajudar e "gameficar" a realização de exercícios físicos.
+
 ![Arduino](../img/fev_01.jpg)
 
 ### Semana 3 (18/02/2022 – 25/02/2022)
