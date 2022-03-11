@@ -25,3 +25,5 @@ Componentes:
 Obstáculos seriam adquirir e organizar os componentes do hardware do projeto, por conta do orçamento dos materiais. 
 
 Outro obstáculo é a comunicação entre tais componentes, o uso do LCD, por exemplo, exige uma programação mais extensa, o que pode gerar erros no processo.
+
+[Nosso site](https://danttunes.github.io/Tapete_inteligente/)
