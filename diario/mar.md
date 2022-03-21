@@ -11,5 +11,5 @@ Semana 3 (18/03/2022 - 25/03/2022)
 Desenvolvimento aprofundado sobre a justificativa do tema. Definimos pontos como:
 * Público-alvo
 * Problemas que o projeto resolve
-* Cenários em que nosso projeto auxilia.
+* Cenários em que nosso projeto auxilia.  
 Essas conclusões foram úteis para termos uma maior noção do propósito do nosso projeto e termos uma evolução no quesito de quais serão os próximos passos.
