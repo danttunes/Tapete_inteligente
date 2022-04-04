@@ -14,3 +14,10 @@ Desenvolvimento aprofundado sobre a justificativa do tema. Definimos pontos como
 * Cenários em que nosso projeto auxilia.
 
 Essas conclusões foram úteis para termos uma maior noção do propósito do nosso projeto e termos uma evolução no quesito de quais serão os próximos passos.
+
+### Semana 4 (25/03/2022 - 01/03/2022)  
+Começamos o desenvolvimento da parte do hardware e também fizemos alguns testes na parte da programação. Ainda serão feitos ajustes para que possamos solucionar alguns problemas do código, como o sensor, que está contabilizando os pontos da maneira errada. Todas as montagens e testes estão sendo feitas pelo Tinkercad.
+
+![montagemTinkercad](./img/mar_02.png)
+
+![codigoTinkercad](./img/mar_03.png)
