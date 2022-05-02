@@ -123,8 +123,8 @@ Nesta semana foram feitas mais progressões no desenvolvimento do código no Ink
 >return duracao/58.82; //calcula e retorna o valor da distância em cm.  
 >}  
 
-![imagemComponentes5](./img/abr_06.png)
+![Potênciometro](./img/abr_06.png)
 
 Também solucionamos um problema em relação a inicialização de contagem da variável e como ela é apresentada no lcd
 
-![imagemComponentes5](./img/abr_07.png)
+![Código](./img/abr_07.png)
