@@ -8,3 +8,7 @@ Encontramos os seguintes trabalhos:
 - [Trabalho 3](https://revista.uniandrade.br/index.php/revistauniandrade/article/view/136)  
 - [Trabalho 4](https://rbafs.org.br/RBAFS/article/view/875/1153)
 - [Trabalho 5](https://ubibliorum.ubi.pt/handle/10400.6/10182)
+- [Trabalho 6](https://www.scielo.br/j/rbem/a/R46f6xRQ35WDwpmM53bHHzd/?lang=pt)
+- [Trabalho 7](https://www.scielo.br/j/rbme/a/jRn4KrPT5r6WbG3Q4CWXsgt/?lang=pt)
+
+https://www.scielo.br/j/rbme/a/jRn4KrPT5r6WbG3Q4CWXsgt/?lang=pt
