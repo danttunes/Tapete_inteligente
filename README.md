@@ -1,5 +1,9 @@
 # Tapete Inteligente
 
+### [Nosso site](https://danttunes.github.io/Tapete_inteligente/)
+
+### [Diário de Bordo](./diario/menu_diario.md)
+
 ## Um projeto de um tapete equipado com sensores que otimizariam a prática de atividades físicas.
 
 ### Documentação:
@@ -25,7 +29,3 @@ Componentes:
 Obstáculos seriam adquirir e organizar os componentes do hardware do projeto, por conta do orçamento dos materiais. 
 
 Outro obstáculo é a comunicação entre tais componentes, o uso do LCD, por exemplo, exige uma programação mais extensa, o que pode gerar erros no processo.
-
-### [Nosso site](https://danttunes.github.io/Tapete_inteligente/)
-
-### [Diário de Bordo](https://github.com/danttunes/Tapete_inteligente/blob/main/diario)
