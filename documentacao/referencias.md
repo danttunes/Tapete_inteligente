@@ -1,4 +1,4 @@
-#Referências:
+# Referências:
 
 MACEDO, C. de S. G.; GARAVELLO, J. J.; OKU, E. C.; MIYAGUSUKU, F. H.; AGNOLL, P. D.; NOCETTI, P. M. BENEFÍCIOS DO EXERCÍCIO FÍSICO PARA A QUALIDADE DE VIDA. Revista Brasileira de Atividade Física & Saúde, [S. l.], v. 8, n. 2, p. 19–27, 2012. DOI: 10.12820/rbafs.v.8n2p19-27. Disponível em: https://rbafs.org.br/RBAFS/article/view/875. Acesso em: 9 maio. 2022.
 
