@@ -7,4 +7,5 @@ Conforme afirma Freitas (2015), a intervenção aplicada com o Método Pilates t
 Em suma, essa técnica se mostra cada vez mais eficiente e benéfico para a saúde e o desenvolvimento físico da população, além de que é uma modalidade que pode ser aplicada para qualquer faixa-etária.  
 
 [Referências](./referencias.md)
+
 [Voltar](../README.md)
