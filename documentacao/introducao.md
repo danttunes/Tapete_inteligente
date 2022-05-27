@@ -8,4 +8,4 @@ Em suma, essa técnica se mostra cada vez mais eficiente e benéfico para a saú
 
 [Referências](./referencias.md)
 
-[Voltar](../README.md)
+[Início](../README.md)
