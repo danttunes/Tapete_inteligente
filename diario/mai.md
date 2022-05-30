@@ -173,8 +173,8 @@ Iniciamos a introdução do projeto, utilizando as normas ABNT de citação dire
 ### Semana 4 (20/05/2022 - 27/05/2022)
 Realizamos a compra do Arduino e dos componentes necessários para a montagem do projeto.
 
-![montagemArduino1](./img/mai_02.png)
+![montagemArduino1](./img/mai_02.jpg)
 
-![montagemArduino2](./img/mai_03.png)
+![montagemArduino2](./img/mai_03.jpg)
 
 Alguns componentes não serão usados no projeto final, pois estamos, por enquanto, usando certas partes como teste.
