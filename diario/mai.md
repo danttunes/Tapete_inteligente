@@ -170,3 +170,11 @@ Iniciamos a introdução do projeto, utilizando as normas ABNT de citação dire
 > 
 >FREITAS, Maria Ludmila Menezes de. Comparação dos efeitos do método Pilates realizado em solo e aparelho sobre a aptidão física relacionada à saúde e fatores >psicológicos em mulheres sedentárias. 2015. 58 f. Dissertação (Mestrado em Educação Física) - Universidade Católica de Brasília, Brasília, 2015. Disponível em: >https://bdtd.ucb.br:8443/jspui/handle/tede/1966. Acesso em: 9 maio. 2022  
 
+### Semana 4 (20/05/2022 - 27/05/2022)
+Realizamos a compra do Arduino e dos componentes necessários para a montagem do projeto.
+
+![montagemArduino1](./img/mai_02.png)
+
+![montagemArduino2](./img/mai_03.png)
+
+Alguns componentes não serão usados no projeto final, pois estamos, por enquanto, usando certas partes como teste.
