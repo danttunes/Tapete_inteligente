@@ -6,6 +6,10 @@ GUIDELLI, Kellen Dianny Pinheiro; SILVA, Nathalia Maria. Tapete sensorial como m
 
 FREITAS, Maria Ludmila Menezes de. Comparação dos efeitos do método Pilates realizado em solo e aparelho sobre a aptidão física relacionada à saúde e fatores psicológicos em mulheres sedentárias. 2015. 58 f. Dissertação (Mestrado em Educação Física) - Universidade Católica de Brasília, Brasília, 2015. Disponível em: https://bdtd.ucb.br:8443/jspui/handle/tede/1966. Acesso em: 9 maio. 2022
 
+SILVA, Diego Augusto Santos et al. Nível de atividade física e comportamento sedentário em escolares. Rev Bras Cineantropom Desempenho Hum, v. 11, n. 3, p. 299-306, 2009.
+
+MONTEIRO, Uyara Gomes. Fatores desencadeadores da obesidade infantil. Acervo da Iniciação Científica, n. 2, 2014.
+
 [Introdução](./introducao.md)
 
 [Início](../README.md)
