@@ -9,49 +9,84 @@ Com o circuito de Arduino praticamente pronto, estamos focando em completar e ot
 Assim, criamos uma função para o display exibir o contador, para isso utilizamos o seguinte código:
 
 ```
-if(contador == 0){
-digitalWrite(E,HIGH);
-digitalWrite(D,HIGH);
-digitalWrite(C,HIGH);
-digitalWrite(DP,LOW);
-digitalWrite(B,HIGH);
-digitalWrite(A,HIGH);
-digitalWrite(F,HIGH);
-digitalWrite(G,HIGH);
+//Função que zera a variável:
+void bt_ligar(){
+  valor = digitalRead(botao);
+  if (valor == HIGH && anterior == LOW) {
+    contador = 0;
+    dplay();
+    //**lcd.clear();
+    //**lcd.print(contador);
+  }
 }
 
-if(contador == 1){
-digitalWrite(E,HIGH);
-digitalWrite(D,HIGH);
-digitalWrite(C,LOW);
-digitalWrite(DP,HIGH);
-digitalWrite(B,LOW);
-digitalWrite(A,HIGH);
-digitalWrite(F,HIGH);
-digitalWrite(G,HIGH);
+//função de contagem:
+void funcao_principal(){
+  if((potenciometro-3) <= distancia && distancia <= (potenciometro+3)){
+    acont = true;
+  }
+  if(!((potenciometro-3) <= distancia && distancia <= (potenciometro+3))){
+    if(distancia<potenciometro){
+      acont = false;
+    }
+
+    if(acont == true){
+      contador = contador + 1;
+      Serial.println(contador);
+      dplay();
+      //**lcd.setCursor(0,0);
+      //**lcd.print(contador);
+    }
+    acont = false;
+  }
 }
 
-if(contador == 2){
-digitalWrite(E,LOW);
-digitalWrite(D,LOW);
-digitalWrite(C,HIGH);
-digitalWrite(DP,HIGH);
-digitalWrite(B,LOW);
-digitalWrite(A,LOW);
-digitalWrite(F,HIGH);
-digitalWrite(G,LOW);
-}
+//funções do display 7 segmentos
+void dplay(){
+  if(contador == 0){
+    digitalWrite(E,HIGH);
+    digitalWrite(D,HIGH);
+    digitalWrite(C,HIGH);
+    digitalWrite(DP,LOW);
+    digitalWrite(B,HIGH);
+    digitalWrite(A,HIGH);
+    digitalWrite(F,HIGH);
+    digitalWrite(G,HIGH);
+  }
 
-if(contador == 3){
-digitalWrite(E,HIGH);
-digitalWrite(D,LOW);
-digitalWrite(C,LOW);
-digitalWrite(DP,HIGH);
-digitalWrite(B,LOW);
-digitalWrite(A,LOW);
-digitalWrite(F,HIGH);
-digitalWrite(G,LOW);
+  if(contador == 1){
+    digitalWrite(E,HIGH);
+    digitalWrite(D,HIGH);
+    digitalWrite(C,LOW);
+    digitalWrite(DP,HIGH);
+    digitalWrite(B,LOW);
+    digitalWrite(A,HIGH);
+    digitalWrite(F,HIGH);
+    digitalWrite(G,HIGH);
+  }
+
+  if(contador == 2){
+    digitalWrite(E,LOW);
+    digitalWrite(D,LOW);
+    digitalWrite(C,HIGH);
+    digitalWrite(DP,HIGH);
+    digitalWrite(B,LOW);
+    digitalWrite(A,LOW);
+    digitalWrite(F,HIGH);
+    digitalWrite(G,LOW);
+  }
+
+  if(contador == 3){
+    digitalWrite(E,HIGH);
+    digitalWrite(D,LOW);
+    digitalWrite(C,LOW);
+    digitalWrite(DP,HIGH);
+    digitalWrite(B,LOW);
+    digitalWrite(A,LOW);
+    digitalWrite(F,HIGH);
+    digitalWrite(G,LOW);
+  }
+  
+  //Seguindo assim para os demais números do contador...
 }
 ```
-
-Seguindo assim para os demais números do contador...
