@@ -5,7 +5,8 @@ Avançamos na montagem do Arduino, com todos os componentes já prontos, com exc
 ![PlacaArduino](./img/jun_01.png)  
 
 ### Semana 3 e 4 (10/05/2022 – 24/06/2022)
-Criamos uma função para o display exibir o contador, para isso utilizamos o seguinte código:
+Com o circuito de Arduino praticamente pronto, estamos focando em completar e otimizar a programação do projeto.
+Assim, criamos uma função para o display exibir o contador, para isso utilizamos o seguinte código:
 
 ```
 if(contador == 0){
