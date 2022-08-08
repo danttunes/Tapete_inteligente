@@ -1,12 +1,18 @@
 ## Junho
-### Semana 1 e 2 (27/05/2022 – 10/06/2022)
-Avançamos na montagem do Arduino, com todos os componentes já prontos, com exceção do OLED, que irá ser colocado futuramente.
+### Semana 1 (03/05/2022 – 10/06/2022)
+Com a chegada dos componentes, começamos a estudar como faremos a
+montagem do Arduino.
+
+### Semana 2 (10/06/2022 – 17/06/2022)
+Avançamos com a montagem do Arduino, já com todos os componentes prontos, faltando apenas o OLED, que será colocado futuramente.
 
 ![PlacaArduino](./img/jun_01.png)  
 
-### Semana 3 e 4 (10/05/2022 – 24/06/2022)
-Com o circuito de Arduino praticamente pronto, estamos focando em completar e otimizar a programação do projeto.
-Assim, criamos uma função para o display exibir o contador, para isso utilizamos o seguinte código:
+### Semana 3 (17/06/2022 – 24/06/2022)
+Utilizamos essa semana para otimizarmos o código, com o Arduina quase pronto precisamos deixar o código do melhor jeito possível.
+
+### Semana 4 (24/06/2022 – 01/07/2022)
+Finalizamos a montagem do Arduino, e também criamos uma função para o display exibir o contador, para isso utilizamos o seguinte código:
 
 ```
 //Função que zera a variável:
