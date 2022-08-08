@@ -9,7 +9,7 @@ Avançamos com a montagem do Arduino, já com todos os componentes prontos, falt
 ![PlacaArduino](./img/jun_01.png)  
 
 ### Semana 3 (17/06/2022 – 24/06/2022)
-Utilizamos essa semana para otimizarmos o código, com o Arduina quase pronto precisamos deixar o código do melhor jeito possível.
+Utilizamos essa semana para otimizarmos o código, com o Arduino quase pronto precisamos deixar o código do melhor jeito possível.
 
 ### Semana 4 (24/06/2022 – 01/07/2022)
 Finalizamos a montagem do Arduino, e também criamos uma função para o display exibir o contador, para isso utilizamos o seguinte código:
